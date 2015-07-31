@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>1156D934-98FA-40A5-9188-3E011B1160F7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>OutSystems</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0D6283A18F066733D61A0569FDFCD5E0822F8C75</key>
 		<string>https://github.com/YescoSoftware/OutSystemsNow-iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>platforms/ios/OutSystems.xcodeproj/project.xcworkspace</string>
+	<string>platforms/ios/OutSystems.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0D6283A18F066733D61A0569FDFCD5E0822F8C75</key>

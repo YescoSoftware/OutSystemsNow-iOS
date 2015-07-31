@@ -80,7 +80,7 @@ for p in $(do_find -type f -print); do
 done
 
 # Copy the config.xml file.
-cp -f "${PROJECT_FILE_PATH%.xcodeproj}/config.xml" "$BUILT_PRODUCTS_DIR/$FULL_PRODUCT_NAME"
+cp -f "/Users/yescosoftware/OutSystemsNow-iOS/platforms/ios/OutSystems/config.xml" "$BUILT_PRODUCTS_DIR/$FULL_PRODUCT_NAME"
 
 )
 IFS=$ORIG_IFS
